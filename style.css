@@ -47,3 +47,10 @@ button{
     width: 100%;
     justify-content: space-evenly;
 }
+.comment{
+  color: blue;
+}
+.finalScore1{
+  color: red;
+  margin-top: 20px;
+}
