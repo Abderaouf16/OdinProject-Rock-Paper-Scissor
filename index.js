@@ -65,11 +65,11 @@ function game(selection){
       }
 
       if(computerCount==5){
-        finalScore='computer wins the game '
+        finalScore='computer wins the game, Meybe next time '
          computerCount= 0
          playerCount=0 
       }else if(playerCount==5){
-        finalScore='player wins the game'
+        finalScore='player wins the game! Congrats.'
         computerCount= 0
         playerCount=0 
       }else{
